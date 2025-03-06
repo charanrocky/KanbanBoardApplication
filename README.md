@@ -1,7 +1,5 @@
 # KanbanBoardApplication
 
-# Kanban Board Application
-
 This Kanban board application allows users to manage tasks across different stages: To Do, In Progress, Peer Review, and Done. The board supports drag-and-drop functionality for task movement and includes a search box to filter tasks by title.
 
 ## Features
